@@ -1,0 +1,22 @@
+{
+  "name": "NodeJSTest",
+  "version": "0.0.0",
+  "description": "NodeJSTest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jasperwu/NodeJStestGit.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Jasperwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jasperwu/NodeJStestGit/issues"
+  },
+  "homepage": "https://github.com/Jasperwu/NodeJStestGit"
+}
